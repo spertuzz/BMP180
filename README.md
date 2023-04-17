@@ -4,8 +4,10 @@
 This project uses a BMP180 sensor, a D1-Mini microcontroller, a 0.66" OLED display, and a Tripler adapter. The BMP180 sensor measures temperature, pressure, and altitude, while the D1-Mini microcontroller processes the sensor output and displays the weather data on the OLED display.
 
 ## Components Used
+![image](https://user-images.githubusercontent.com/74060530/232572354-011b9bd2-f82f-4e60-8c20-dc3950e8210c.png)
+
 - BMP180 sensor
-- D1-Mini microcontroller
+- D1-Mini microcontroller                                  
 - 0.66" OLED display
 - Tripler adapter (to mount the components)
 

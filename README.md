@@ -1,7 +1,7 @@
 
 # BAROMETER ( BOSCH )
 
-This projectuses a BMP180 sensor, a D1-Mini microcontroller, a 0.66" OLED display, and a Tripler adapter. The BMP180 sensor measures temperature, pressure, and altitude, while the D1-Mini microcontroller processes the sensor output and displays the weather data on the OLED display.
+This project uses a BMP180 sensor, a D1-Mini microcontroller, a 0.66" OLED display, and a Tripler adapter. The BMP180 sensor measures temperature, pressure, and altitude, while the D1-Mini microcontroller processes the sensor output and displays the weather data on the OLED display.
 
 ## Components Used
 - BMP180 sensor

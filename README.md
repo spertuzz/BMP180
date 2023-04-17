@@ -35,7 +35,7 @@ Adjust the altitude settings in the source code to your location for accurate pr
 The OLED display will show the weather data (e.g., temperature, pressure, and altitude) based on the sensor output.
 
 ## Usage
-The weather station will continuously measure and display the temperature, pressure, and altitude on the OLED display.
+The BMP180 will continuously measure and display the temperature, pressure, and altitude on the OLED display.
 
 You can customize the altitude settings in the source code to your location for accurate pressure measurements.
 
